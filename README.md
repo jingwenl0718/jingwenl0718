@@ -13,7 +13,7 @@ public class Java{
     public static void main(String[] args){
 
         SoftwareDeveloper jingwen = new SoftwareDeveloper("Jingwen");
-        jingwen.setPronoun("She or Her");
+        jingwen.setPronouns("She or Her");
 
         ArrayList<String> favorites = new ArrayList<>();
         favorites.add("Coding");
