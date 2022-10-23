@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Welcome to Jingwen's GitHub World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20software%20developer;Love%20coding%20and%20building%20things;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
@@ -28,9 +28,9 @@ public class Java{
     }
 }
 ```
-<h3  align="center">🛠️ My Favorite Tools</h3>
+<h2  align="center">🛠️ My Favorite Tools</h2>
 
-#### 👨‍💻 Programming languages
+### 👨‍💻 Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -42,7 +42,7 @@ public class Java{
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-#### 🧰 Frameworks and libraries
+### 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
@@ -61,7 +61,7 @@ public class Java{
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
-#### 💻 Tools
+### 💻 Tools
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -78,7 +78,7 @@ public class Java{
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 </p>
 
-<h3  align="center">📫 Reach Me On</h3>
+<h2  align="center">📫 Reach Me On</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jingwen-l-3bb3b941/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
   <a href="mailto:lijingwenot@gmail.com?subject=Hello%20Jingwen,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
