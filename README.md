@@ -12,8 +12,8 @@ import java.util.ArrayList;
 public class Java{
     public static void main(String[] args){
 
-        SoftwareDeveloper Jingwen = new SoftwareDeveloper("Jingwen");
-        Jingwen.setPronoun("She or Her");
+        SoftwareDeveloper jingwen = new SoftwareDeveloper("Jingwen");
+        jingwen.setPronoun("She or Her");
 
         ArrayList<String> favorites = new ArrayList<>();
         favorites.add("Coding");
