@@ -16,9 +16,9 @@ public class Java{
         jingwen.setPronouns("She or Her");
 
         ArrayList<String> favorites = new ArrayList<>();
+        favorites.add("Building delightful products");
+        favorites.add("Learning new things");
         favorites.add("Coding");
-        favorites.add("Creating something meaningful");
-        favorites.add("Fixing bugs");
         favorites.add("Travel");
         favorites.add("Piano");
         favorites.add("Dancing");
