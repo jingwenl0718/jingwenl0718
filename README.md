@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20software%20developer;Love%20coding%20and%20building%20things;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=product%20manager;Love%20coding%20and%20building%20things;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 ```
